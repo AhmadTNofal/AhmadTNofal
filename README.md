@@ -53,7 +53,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=AhmadTNofal&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
 
 ### 📈 Overall Profile Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmadTNofal&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_title=false&hide_border=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
 
 ### 🔥 Streak
 <img src="https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]&mode=weekly" alt="GitHub Streak" />
