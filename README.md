@@ -40,11 +40,7 @@
 ---
 
 ### ⚙️ Automation, 3D & Rule Engines  
-![Rule Engine](https://img.shields.io/badge/Rule%20Engine%20(Snap%20Logic)-0068B5?style=for-the-badge&logo=logicmonitor&logoColor=white)
-![3D Configurator](https://img.shields.io/badge/3D%20Configurator-0099FF?style=for-the-badge&logo=three.js&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32C2E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![AR/VR](https://img.shields.io/badge/AR%20%26%20VR-764ABC?style=for-the-badge&logo=meta&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Rule Engine](https://img.shields.io/badge/Rule%20Engine%20(Snap%20Logic)-0068B5?style=for-the-badge&logo=logicmonitor&logoColor=white) ![3D Configurator](https://img.shields.io/badge/3D%20Configurator-0099FF?style=for-the-badge&logo=three.js&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32C2E?style=for-the-badge&logo=dassaultsystemes&logoColor=white) ![AR/VR](https://img.shields.io/badge/AR%20%26%20VR-764ABC?style=for-the-badge&logo=meta&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
