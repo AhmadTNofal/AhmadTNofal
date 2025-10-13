@@ -47,13 +47,23 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AhmadTNofal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmadTNofal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTNofal&theme=tokyonight&hide_border=false&layout=compact)
+# 📊 GitHub Stats (Polished)
+
+### 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AhmadTNofal&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
+
+### 📈 Overall Profile Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmadTNofal&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_title=false&hide_border=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
+
+### 🔥 Streak
+<img src="https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]&mode=weekly" alt="GitHub Streak" />
+
+### 🧠 Top Languages (by repo code)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmadTNofal&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=360" alt="Top Languages" />
 
 ---
 
 ### 🎯 Motto
 > “Build systems that think, speak, and act with purpose.”  
+
 
