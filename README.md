@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I’m **Ahmed Taher H. T. Hasan**, a **Software Configuration Engineer at [Moduflex Ltd](https://www.moduflex.co.uk/)** and a **First-Class BSc (Hons) Computer Science graduate** from the **University of the West of England (UWE Bristol)**.  
+👋 Hi, I’m **Ahmed Hasan**, a **Software Configuration Engineer at [Moduflex Ltd](https://www.moduflex.co.uk/)** and a **First-Class BSc (Hons) Computer Science graduate** from the **University of the West of England (UWE Bristol)**.  
 
 💡 I’m passionate about **AI-driven automation**, **intelligent assistants**, and **software systems that bridge the gap between humans and technology**. I love designing scalable backends, building seamless user experiences, and integrating modern AI into real-world workflows.
 
