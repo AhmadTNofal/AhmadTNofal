@@ -58,8 +58,8 @@
 ### 🔥 Streak
 <img src="https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]&mode=weekly" alt="GitHub Streak" />
 
-### 🧠 Top Languages (by repo code)
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmadTNofal&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=360" alt="Top Languages" />
+### 🧠 Top Languages 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTNofal&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
