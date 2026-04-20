@@ -1,8 +1,5 @@
 <div align="center">
 
-```
-AhmadTNofal / AhmadTNofal
-```
 
 # Ahmed Hasan
 
@@ -124,8 +121,6 @@ First-Class BSc (Hons) Computer Science — University of the West of England (U
 ![GitHub Streak](https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]&mode=weekly)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTNofal&theme=tokyonight&hide_border=true&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AhmadTNofal&theme=onedark&no-frame=true&no-bg=true&margin-w=5)
 
 </div>
 
