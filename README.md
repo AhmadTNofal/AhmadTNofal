@@ -1,10 +1,76 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Ahmed%20Hasan&fontSize=52&fontColor=e6edf3&fontAlignY=40&desc=Software%20Configuration%20Engineer%20%C2%B7%20AI%20%26%20Automation%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=%3E+building+systems+that+think%2C+speak%2C+and+act+with+purpose;%3E+First-Class+BSc+CS+%E2%80%94+UWE+Bristol+%7C+Moduflex+Ltd)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER — pure SVG, no external host, always renders on GitHub -->
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#0d2137"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#388bfd"/>
+      <stop offset="70%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="860" height="200" fill="url(#hg)" rx="0"/>
+  <!-- Animated top wave line -->
+  <path d="M0,40 Q215,10 430,40 Q645,70 860,40" fill="none" stroke="url(#wg)" stroke-width="1" opacity="0.6">
+    <animate attributeName="d"
+      values="M0,40 Q215,10 430,40 Q645,70 860,40;
+              M0,40 Q215,70 430,40 Q645,10 860,40;
+              M0,40 Q215,10 430,40 Q645,70 860,40"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <!-- Animated bottom wave line -->
+  <path d="M0,160 Q215,130 430,160 Q645,190 860,160" fill="none" stroke="url(#wg)" stroke-width="1" opacity="0.6">
+    <animate attributeName="d"
+      values="M0,160 Q215,130 430,160 Q645,190 860,160;
+              M0,160 Q215,190 430,160 Q645,130 860,160;
+              M0,160 Q215,130 430,160 Q645,190 860,160"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <!-- Glowing dot left -->
+  <circle cx="80" cy="100" r="3" fill="#388bfd" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Glowing dot right -->
+  <circle cx="780" cy="100" r="3" fill="#3fb950" opacity="0.7">
+    <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;3;5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Name -->
+  <text x="430" y="90" text-anchor="middle" font-size="44" font-weight="bold"
+        font-family="'Courier New',Courier,monospace" fill="#e6edf3" letter-spacing="2">
+    Ahmed Hasan
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+  <!-- Title line -->
+  <text x="430" y="124" text-anchor="middle" font-size="15"
+        font-family="'Courier New',Courier,monospace" fill="#58a6ff" letter-spacing="1">
+    Software Configuration Engineer · AI &amp; Automation Developer
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="1.6s" fill="freeze"/>
+  </text>
+  <!-- Edu line -->
+  <text x="430" y="150" text-anchor="middle" font-size="12"
+        font-family="'Courier New',Courier,monospace" fill="#8b949e">
+    First-Class BSc Computer Science — UWE Bristol
+    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.5;0.7;1" dur="2.2s" fill="freeze"/>
+  </text>
+  <!-- Tagline with cursor blink -->
+  <text x="430" y="178" text-anchor="middle" font-size="14"
+        font-family="'Courier New',Courier,monospace" fill="#3fb950">
+    &gt; building systems that think, speak, and act with purpose
+    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.6;0.8;1" dur="2.8s" fill="freeze"/>
+  </text>
+  <text x="719" y="178" font-size="14" font-family="monospace" fill="#3fb950">
+    _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="3s"/>
+  </text>
+</svg>
 
 <br/>
 
@@ -55,36 +121,54 @@
 
 ## 🛠 Tech Stack
 
-<!-- ANIMATED SKILL BARS -->
 <div align="center">
+
+### 🐍 Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🧩 Frameworks & Runtimes
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### 🤖 AI / ML
+
+![OpenAI GPT-4o](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ⚙️ CPQ, ERP & Manufacturing
+
+![Epicor CPQ](https://img.shields.io/badge/Epicor%20CPQ-003B70?style=for-the-badge&logoColor=white)
+![Epicor Kinetic ERP](https://img.shields.io/badge/Epicor%20Kinetic%20ERP-002B5C?style=for-the-badge&logoColor=white)
+![KBMax Visual CPQ](https://img.shields.io/badge/KBMax%20Visual%20CPQ-005B94?style=for-the-badge&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32C2E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![SigmaNest](https://img.shields.io/badge/SigmaNest-444441?style=for-the-badge&logoColor=white)
+
+### 🗄️ Databases & DevOps
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![REST](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-![Epicor CPQ](https://img.shields.io/badge/Epicor%20CPQ-003B70?style=for-the-badge)
-![Epicor Kinetic ERP](https://img.shields.io/badge/Epicor%20Kinetic%20ERP-002B5C?style=for-the-badge)
-![KBMax](https://img.shields.io/badge/KBMax%20Visual%20CPQ-005B94?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32C2E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![SigmaNest](https://img.shields.io/badge/SigmaNest-444441?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AR/VR](https://img.shields.io/badge/AR%20%26%20VR-764ABC?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
 
@@ -188,5 +272,27 @@
 
 ---
 
-<!-- ANIMATED FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Open%20to%20collaboration%20%E2%80%94%20reach%20out%20anytime&fontSize=16&fontColor=8b949e&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- ANIMATED FOOTER — pure inline SVG -->
+<div align="center">
+<svg width="860" height="100" viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#388bfd" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#1f6feb"/>
+      <stop offset="70%" stop-color="#388bfd"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,30 Q215,0 430,30 Q645,60 860,30" fill="none" stroke="url(#fg)" stroke-width="1.5">
+    <animate attributeName="d"
+      values="M0,30 Q215,0 430,30 Q645,60 860,30;
+              M0,30 Q215,60 430,30 Q645,0 860,30;
+              M0,30 Q215,0 430,30 Q645,60 860,30"
+      dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="430" y="75" text-anchor="middle" font-size="13"
+        font-family="'Courier New',Courier,monospace" fill="#8b949e">
+    Open to collaborating on AI tools, automation pipelines &amp; full-stack projects — reach out anytime
+  </text>
+</svg>
+</div>
