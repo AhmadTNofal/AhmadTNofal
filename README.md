@@ -1,108 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — pure SVG, no external host, always renders on GitHub -->
-<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="60%" stop-color="#0d2137"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="wg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#388bfd"/>
-      <stop offset="70%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="860" height="200" fill="url(#hg)" rx="0"/>
-  <!-- Animated top wave line -->
-  <path d="M0,40 Q215,10 430,40 Q645,70 860,40" fill="none" stroke="url(#wg)" stroke-width="1" opacity="0.6">
-    <animate attributeName="d"
-      values="M0,40 Q215,10 430,40 Q645,70 860,40;
-              M0,40 Q215,70 430,40 Q645,10 860,40;
-              M0,40 Q215,10 430,40 Q645,70 860,40"
-      dur="6s" repeatCount="indefinite"/>
-  </path>
-  <!-- Animated bottom wave line -->
-  <path d="M0,160 Q215,130 430,160 Q645,190 860,160" fill="none" stroke="url(#wg)" stroke-width="1" opacity="0.6">
-    <animate attributeName="d"
-      values="M0,160 Q215,130 430,160 Q645,190 860,160;
-              M0,160 Q215,190 430,160 Q645,130 860,160;
-              M0,160 Q215,130 430,160 Q645,190 860,160"
-      dur="6s" repeatCount="indefinite"/>
-  </path>
-  <!-- Glowing dot left -->
-  <circle cx="80" cy="100" r="3" fill="#388bfd" opacity="0.7">
-    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Glowing dot right -->
-  <circle cx="780" cy="100" r="3" fill="#3fb950" opacity="0.7">
-    <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="5;3;5" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Name -->
-  <text x="430" y="90" text-anchor="middle" font-size="44" font-weight="bold"
-        font-family="'Courier New',Courier,monospace" fill="#e6edf3" letter-spacing="2">
-    Ahmed Hasan
-    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
-  </text>
-  <!-- Title line -->
-  <text x="430" y="124" text-anchor="middle" font-size="15"
-        font-family="'Courier New',Courier,monospace" fill="#58a6ff" letter-spacing="1">
-    Software Configuration Engineer · AI &amp; Automation Developer
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="1.6s" fill="freeze"/>
-  </text>
-  <!-- Edu line -->
-  <text x="430" y="150" text-anchor="middle" font-size="12"
-        font-family="'Courier New',Courier,monospace" fill="#8b949e">
-    First-Class BSc Computer Science — UWE Bristol
-    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.5;0.7;1" dur="2.2s" fill="freeze"/>
-  </text>
-  <!-- Tagline with cursor blink -->
-  <text x="430" y="178" text-anchor="middle" font-size="14"
-        font-family="'Courier New',Courier,monospace" fill="#3fb950">
-    &gt; building systems that think, speak, and act with purpose
-    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0;0.6;0.8;1" dur="2.8s" fill="freeze"/>
-  </text>
-  <text x="719" y="178" font-size="14" font-family="monospace" fill="#3fb950">
-    _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="3s"/>
-  </text>
-</svg>
+<img src="https://raw.githubusercontent.com/AhmadTNofal/AhmadTNofal/main/assets/header.gif" width="100%" alt="Ahmed Hasan — Software Configuration Engineer · AI & Automation Developer"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadthasan/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadTNofal)
 [![Moduflex](https://img.shields.io/badge/Moduflex%20Ltd-003B70?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.moduflex.co.uk/)
-
-</div>
-
----
-
-<!-- ANIMATED SKILL BAR SVG -->
-<div align="center">
-
-## ⚡ Quick Stats
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Projects-21-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Degree-First%20Class%20BSc-3fb950?style=for-the-badge&labelColor=0d1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Stack-GPT--4o%20%7C%20Python%20%7C%20C%23-d2a8ff?style=for-the-badge&labelColor=0d1117"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Domains-4-f78166?style=for-the-badge&labelColor=0d1117"/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -123,8 +27,11 @@
 
 <div align="center">
 
-### 🐍 Languages
+<img src="https://raw.githubusercontent.com/AhmadTNofal/AhmadTNofal/main/assets/skillbars.gif" width="100%" alt="Tech skill bars"/>
 
+<br/>
+
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -136,7 +43,6 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🧩 Frameworks & Runtimes
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -144,7 +50,6 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🤖 AI / ML
-
 ![OpenAI GPT-4o](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -154,15 +59,13 @@
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### ⚙️ CPQ, ERP & Manufacturing
-
-![Epicor CPQ](https://img.shields.io/badge/Epicor%20CPQ-003B70?style=for-the-badge&logoColor=white)
-![Epicor Kinetic ERP](https://img.shields.io/badge/Epicor%20Kinetic%20ERP-002B5C?style=for-the-badge&logoColor=white)
-![KBMax Visual CPQ](https://img.shields.io/badge/KBMax%20Visual%20CPQ-005B94?style=for-the-badge&logoColor=white)
+![Epicor CPQ](https://img.shields.io/badge/Epicor%20CPQ-003B70?style=for-the-badge)
+![Epicor Kinetic ERP](https://img.shields.io/badge/Epicor%20Kinetic%20ERP-002B5C?style=for-the-badge)
+![KBMax Visual CPQ](https://img.shields.io/badge/KBMax%20Visual%20CPQ-005B94?style=for-the-badge)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E32C2E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![SigmaNest](https://img.shields.io/badge/SigmaNest-444441?style=for-the-badge&logoColor=white)
+![SigmaNest](https://img.shields.io/badge/SigmaNest-444441?style=for-the-badge)
 
 ### 🗄️ Databases & DevOps
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -252,19 +155,14 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmadTNofal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=1f6feb" height="160"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadTNofal&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="160"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=f78166&currStreakLabel=58a6ff&date_format=j%20M[%20Y]&mode=weekly" width="600"/>
 
-<img src="https://streak-stats.demolab.com?user=AhmadTNofal&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=f78166&currStreakLabel=58a6ff&date_format=j%20M%5B%20Y%5D&mode=weekly" width="600"/>
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
+<br/><br/>
 
 [![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadTNofal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=3fb950&area=true&hide_border=true)](https://github.com/AhmadTNofal)
 
@@ -272,27 +170,6 @@
 
 ---
 
-<!-- ANIMATED FOOTER — pure inline SVG -->
 <div align="center">
-<svg width="860" height="100" viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#388bfd" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#1f6feb"/>
-      <stop offset="70%" stop-color="#388bfd"/>
-      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,30 Q215,0 430,30 Q645,60 860,30" fill="none" stroke="url(#fg)" stroke-width="1.5">
-    <animate attributeName="d"
-      values="M0,30 Q215,0 430,30 Q645,60 860,30;
-              M0,30 Q215,60 430,30 Q645,0 860,30;
-              M0,30 Q215,0 430,30 Q645,60 860,30"
-      dur="5s" repeatCount="indefinite"/>
-  </path>
-  <text x="430" y="75" text-anchor="middle" font-size="13"
-        font-family="'Courier New',Courier,monospace" fill="#8b949e">
-    Open to collaborating on AI tools, automation pipelines &amp; full-stack projects — reach out anytime
-  </text>
-</svg>
+<img src="https://raw.githubusercontent.com/AhmadTNofal/AhmadTNofal/main/assets/footer.gif" width="100%" alt="footer"/>
 </div>
