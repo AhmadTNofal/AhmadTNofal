@@ -57,11 +57,3 @@ Most of my work sits at the intersection of AI, automation, and the slow, manual
 ### Currently
 
 Shipping internal automation at Moduflex. Exploring how language models, OCR, and lightweight desktop agents can replace the slowest parts of manufacturing and engineering software.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AhmadTNofal?label=Followers&style=for-the-badge&color=1f6feb&logo=github&logoColor=white" alt="GitHub followers"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AhmadTNofal&label=Profile+views&style=for-the-badge&color=1f6feb" alt="Profile views"/>
-</p>
