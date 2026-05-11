@@ -61,7 +61,7 @@ Shipping internal automation at Moduflex. Exploring how language models, OCR, an
 ---
 
 <p align="center">
-  <img src="https://ahmad-t-nofal.vercel.app/api/cards/stats?username=AhmadTNofal&theme=github_dark" height="170" alt="GitHub stats"/>
+  <img src="https://img.shields.io/github/followers/AhmadTNofal?label=Followers&style=for-the-badge&color=1f6feb&logo=github&logoColor=white" alt="GitHub followers"/>
   &nbsp;
-  <img src="https://ahmad-t-nofal.vercel.app/api/cards/most-commit-language?username=AhmadTNofal&theme=github_dark" height="170" alt="Most used languages"/>
+  <img src="https://komarev.com/ghpvc/?username=AhmadTNofal&label=Profile+views&style=for-the-badge&color=1f6feb" alt="Profile views"/>
 </p>
