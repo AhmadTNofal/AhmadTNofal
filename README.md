@@ -61,6 +61,6 @@ Shipping internal automation at Moduflex. Exploring how language models, OCR, an
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadTNofal&hide_border=true&hide_title=false&area=true&grid=true&color=000000&line=000000&point=000000&bg_color=ffffff" alt="GitHub activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadTNofal&mode=weekly&hide_border=true" alt="GitHub weekly streak stats" />
 </p>
 
