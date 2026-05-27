@@ -20,7 +20,7 @@
 
 I'm a Software Configuration Engineer at **Moduflex Ltd** in Bristol, building CPQ configurators, 3D product logic, and custom automation tools for modular manufacturing. First-Class BSc in Computer Science from the University of the West of England.
 
-Most of my work sits at the intersection of AI, automation, and the slow, manual parts of manufacturing and engineering software &mdash; the places where a well-placed system quietly removes hours of friction per week.
+Most of my work sits at the intersection of AI, automation, and the slow, manual parts of manufacturing and engineering software - the places where a well-placed system quietly removes hours of friction per week.
 
 ---
 
