@@ -44,7 +44,7 @@ Most of my work sits at the intersection of AI, automation, and the slow, manual
 
 **CAD Costing Platform** &mdash; Parses SolidWorks models and turns them into accurate manufacturing cost estimates, replacing a manual quoting workflow that used to take hours.
 
-**Mobile Systems Configurator** &mdash; Field-ready CPQ configurator with 3D visualisation, live pricing, and full validation logic. Built on Epicor CPQ / KBMax.
+**Mobile Systems Configurator** &mdash; Field-ready CPQ configurator with 3D visualisation, live pricing, and full validation logic.
 
 **Cantilibra BOMs Maker** &mdash; OCR-driven pipeline that parses PDF customer orders into structured BOMs and dispatches them to the factory floor.
 
