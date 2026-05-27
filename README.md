@@ -57,3 +57,10 @@ Most of my work sits at the intersection of AI, automation, and the slow, manual
 ### Currently
 
 Shipping internal automation at Moduflex. Exploring how language models, OCR, and lightweight desktop agents can replace the slowest parts of manufacturing and engineering software.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadTNofal&hide_border=true" alt="GitHub streak stats" />
+</p>
+
